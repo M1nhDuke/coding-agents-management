@@ -1,3 +1,4 @@
+
 # Specification: Student Accommodation Platform (France)
 
 ## Problem Statement
